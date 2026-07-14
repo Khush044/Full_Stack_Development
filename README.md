@@ -19,7 +19,7 @@ This repository contains all Full Stack Development Lab (FSDL) practical assignm
 - [Assignment 07](./Assignment-07) — Student feedback system (React, Node.js, Express, MongoDB, JWT)
 
 ## Hosted Profile Website
-Live Link: https://swayammandhani06.github.io/Full-Stack-Development/
+Live Link:  https://khush044.github.io/Full_Stack_Development/
 
 ## Repository Link
 https://github.com/Khush044/Full_Stack_Development
