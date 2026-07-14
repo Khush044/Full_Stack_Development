@@ -22,7 +22,7 @@ This repository contains all Full Stack Development Lab (FSDL) practical assignm
 Live Link: https://swayammandhani06.github.io/Full-Stack-Development/
 
 ## Repository Link
-https://github.com/SwayamMandhani06/Full-Stack-Development
+https://github.com/Khush044/Full_Stack_Development
 
 ## Technologies Used
 Git, GitHub, GitHub Pages, HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB
